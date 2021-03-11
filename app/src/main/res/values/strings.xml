@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TaskPhoneNumberAuth</string>
+    <string name="first_content">Gas app allows you to book for a gas by connecting you with gas vendors in your area for  quick delivery</string>
+    <string name="second_title">Make a Request</string>
+    <string name="second_content">Tap on Make a Request button below and choose whether you want a gas pickup or a gas exchange</string>
+    <string name="third_title">Make Payment</string>
+    <string name="third_content">Select a payment card from existing cards in your account oe add new card.</string>
+    <string name="four_title">Delivery</string>
+    <string name="four_content">Money will not be deducted from your account until your order has been deliverd</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714428045542",
+    "project_id": "taskphonenumberauth",
+    "storage_bucket": "taskphonenumberauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714428045542:android:e07fae17f930ade1fe4327",
+        "android_client_info": {
+          "package_name": "com.hafiz.taskphonenumberauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714428045542-hu157js4q1pg4uv5i1omolki80b8o8s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQDtU99N47HLRh3rTEdeOIw8DN3wl1a68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714428045542-hu157js4q1pg4uv5i1omolki80b8o8s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
